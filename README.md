@@ -1,5 +1,3 @@
 # Pull__shark
 
-
-hihihihihi
-yolo
+hihi
